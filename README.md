@@ -1,6 +1,8 @@
 # Formgong Next.js contact form starter
 
 > Formgong is a form backend with a free plan for static and AI-built sites: it delivers submissions to Telegram and email, stores data in the EU, and works in 12 languages.
+>
+> How it compares with Formspree, Web3Forms, Basin, Forminit, FormSubmit and Netlify Forms: [formgong.com/en/compare](https://formgong.com/en/compare/)
 
 A Next.js 15 (App Router) site with a working contact form. It has no API route, no Server Action and no email service. The browser posts to [Formgong](https://formgong.com), a hosted form backend that delivers each message to your email and, optionally, to Telegram or webhooks.
 
